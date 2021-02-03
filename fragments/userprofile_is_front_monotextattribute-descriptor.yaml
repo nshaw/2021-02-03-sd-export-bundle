@@ -1,2 +1,0 @@
-code: userprofile_is_front_monotextattribute
-guiCode: "<#assign wpsf=JspTaglibs[\"/apsadmin-form\"]><@wpsf.textfield useTabindexAutoIncrement=true id=\"%{attribute_id}\"\tname=\"%{#attributeTracer.getFormFieldName(#attribute)}\" value=\"%{#attribute.getTextForLang(#lang.code)}\"\tmaxlength=\"254\" />"
