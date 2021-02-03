@@ -1,2 +1,0 @@
-code: internal_servlet_generic_error
-guiCode: '<#assign wp=JspTaglibs["/aps-core"]><@wp.i18n key="GENERIC_ERROR" />'

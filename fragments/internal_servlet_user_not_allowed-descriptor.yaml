@@ -1,2 +1,0 @@
-code: internal_servlet_user_not_allowed
-guiCode: '<#assign wp=JspTaglibs["/aps-core"]><@wp.i18n key="USER_NOT_ALLOWED" />'

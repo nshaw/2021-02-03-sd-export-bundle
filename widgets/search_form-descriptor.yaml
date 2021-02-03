@@ -1,6 +1,0 @@
-code: search_form
-titles:
-  en: Search form
-  it: Barra ricerca
-group: free
-customUi: '<#assign wp=JspTaglibs["/aps-core"]><@wp.pageWithWidget var="searchResultPageVar" widgetTypeCode="search_result" /><form class="navbar-search " action="<#if (searchResultPageVar??) ><@wp.url page="${searchResultPageVar.code}" /></#if>" method="get"><i class="fas fa-search"></i><input type="text" name="search" class="search-query" placeholder="<@wp.i18n key="ESSF_SEARCH" />" /></form>'
