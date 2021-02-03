@@ -1,0 +1,400 @@
+- key: ADMINISTRATION_BASIC
+  titles:
+    en: Normal
+    it: Normale
+- key: ADMINISTRATION_BASIC_GOTO
+  titles:
+    en: Go to the administration with normal client
+    it: Accedi con client normale
+- key: ADMINISTRATION_MINT
+  titles:
+    en: Advanced
+    it: Avanzata
+- key: ADMINISTRATION_MINT_GOTO
+  titles:
+    en: Go to the administration with advanced client
+    it: Accedi con client avanzato
+- key: ALL
+  titles:
+    en: All
+    it: Tutte
+- key: BOTH
+  titles:
+    en: Both
+    it: Entrambi
+- key: CATEGORY
+  titles:
+    en: Category
+    it: Categoria
+- key: DATE_FROM
+  titles:
+    en: From
+    it: Da
+- key: DATE_TO
+  titles:
+    en: To
+    it: A
+- key: EDIT_THIS_CONTENT
+  titles:
+    en: Edit
+    it: Modifica
+- key: ELSF_MANAGE_USERS
+  titles:
+    en: Manage Users
+    it: Gestione Utenti
+- key: ELSF_SUBSITE
+  titles:
+    en: Subsite
+    it: Subsite
+- key: ENTANDO_API_DESCRIPTION
+  titles:
+    en: Description
+    it: Descrizione
+- key: ENTANDO_API_ERROR
+  titles:
+    en: Errors
+    it: Errore
+- key: ENTANDO_API_EXTENSION
+  titles:
+    en: Extension
+    it: Estensione
+- key: ENTANDO_API_EXTENSION_NOTE
+  titles:
+    en: '''.xml'' for response in xml format and ''.json'' for json.'
+    it: '''.xml'' per la risposta in formato xml e ''.json'' per la risposta in formato json.'
+- key: ENTANDO_API_GOTO_DETAILS
+  titles:
+    en: Go to details
+    it: Vai al dettaglio
+- key: ENTANDO_API_GOTO_LIST
+  titles:
+    en: API Resource List
+    it: Lista delle Risorse API
+- key: ENTANDO_API_GOTO_SERVICE_LIST
+  titles:
+    en: Service List
+    it: Elenco Servizi API
+- key: ENTANDO_API_METHOD
+  titles:
+    en: Method
+    it: Metodo
+- key: ENTANDO_API_METHOD_AUTHORIZATION
+  titles:
+    en: Authorization
+    it: Autorizzazione
+- key: ENTANDO_API_METHOD_AUTH_FREE
+  titles:
+    en: 'None, this method is public'
+    it: 'Nessuna, questo metodo è pubblico'
+- key: ENTANDO_API_METHOD_AUTH_SIMPLE
+  titles:
+    en: Registered users
+    it: Utenti registrati
+- key: ENTANDO_API_METHOD_AUTH_WITH_PERM
+  titles:
+    en: Registered users with permission
+    it: Utenti registrati con permesso
+- key: ENTANDO_API_METHOD_KO
+  titles:
+    en: Not available
+    it: Non disponibile
+- key: ENTANDO_API_METHOD_OK
+  titles:
+    en: Available
+    it: Disponibile
+- key: ENTANDO_API_METHOD_PARAMS_SUMM
+  titles:
+    en: 'This table shows the request parameters for this method. For each of them there are three columns: the parameter name, the parameter description and whether if it''s mandatory or not.'
+    it: 'Questa tabella mostra i parametri per la richiesta del metodo. Per ciascuno di essi ci sono tre colonne: il nome del parametro, la descrizione del parametro e l''indicazione di obbligatorietà.'
+- key: ENTANDO_API_METHOD_REQUEST_PARAMS
+  titles:
+    en: Parameters
+    it: Parametri
+- key: ENTANDO_API_METHOD_SCHEMAS
+  titles:
+    en: XML Schemas
+    it: Schema XML
+- key: ENTANDO_API_METHOD_SCHEMA_REQ
+  titles:
+    en: Request
+    it: Richiesta
+- key: ENTANDO_API_METHOD_SCHEMA_RESP
+  titles:
+    en: Response
+    it: Risposta
+- key: ENTANDO_API_METHOD_STATUS_AUTH
+  titles:
+    en: 'Active, Registered Users'
+    it: 'Attivo, Utenti Registrati'
+- key: ENTANDO_API_METHOD_STATUS_FREE
+  titles:
+    en: 'Active, Free Access'
+    it: 'Attivo, Accesso Libero'
+- key: ENTANDO_API_METHOD_STATUS_LOCK
+  titles:
+    en: 'Active, Registered Users with Permission'
+    it: 'Metodo Attivo, Utenti Registrati con Autorizzazione'
+- key: ENTANDO_API_METHOD_STATUS_NA
+  titles:
+    en: Method Not Available
+    it: Metodo Non Disponibile
+- key: ENTANDO_API_METHOD_STATUS_OFF
+  titles:
+    en: Not Active
+    it: Non Attivo
+- key: ENTANDO_API_NO_RESOURCES
+  titles:
+    en: No API Resources available at the moment.
+    it: Non ci sono Risorse API disponibili.
+- key: ENTANDO_API_PARAM_DESCRIPTION
+  titles:
+    en: Description
+    it: Descrizione
+- key: ENTANDO_API_PARAM_NAME
+  titles:
+    en: Name
+    it: Nome
+- key: ENTANDO_API_PARAM_REQUIRED
+  titles:
+    en: Mandatory
+    it: Obbligatorio
+- key: ENTANDO_API_RESOURCE
+  titles:
+    en: Resource
+    it: Risorsa
+- key: ENTANDO_API_RESOURCES
+  titles:
+    en: API Resources
+    it: Risorse API
+- key: ENTANDO_API_RESOURCE_NAME
+  titles:
+    en: Name
+    it: Nome
+- key: ENTANDO_API_RESOURCE_NAMESPACE
+  titles:
+    en: Namespace
+    it: Namespace
+- key: ENTANDO_API_RESOURCE_SOURCE
+  titles:
+    en: Source
+    it: Sorgente
+- key: ENTANDO_API_RESOURCE_URI
+  titles:
+    en: URI
+    it: URI
+- key: ENTANDO_API_SERVICE
+  titles:
+    en: Service
+    it: Servizio
+- key: ENTANDO_API_SERVICE_AUTHORIZATION
+  titles:
+    en: Authorization
+    it: Autorizzazione
+- key: ENTANDO_API_SERVICE_AUTH_FREE
+  titles:
+    en: Free
+    it: Accesso Libero
+- key: ENTANDO_API_SERVICE_KEY
+  titles:
+    en: Key
+    it: Id
+- key: ENTANDO_API_SERVICE_PARAMETERS
+  titles:
+    en: Parameters
+    it: Parametri
+- key: ENTANDO_API_SERVICE_PARENT_API
+  titles:
+    en: Parent API
+    it: API Padre
+- key: ENTANDO_API_SERVICE_URI
+  titles:
+    en: URI
+    it: URI
+- key: ENTANDO_API_TABLE_SUMMARY
+  titles:
+    en: 'The table lists the API Resources available in the system. Method name, description, group and the status of each method.'
+    it: 'La tabella elenaca le Risorse API disponibile nel sistema. Nome della risorsa, la sua descrizione e lo stato di ciascun metodo.'
+- key: ERRORS
+  titles:
+    en: Whoops! You're doing it wrong!
+    it: Oops! Hai sbagliato qualcosa!
+- key: ESLC_LANGUAGE
+  titles:
+    en: Language
+    it: Lingua
+- key: ESLC_LANG_en
+  titles:
+    en: English
+    it: Inglese
+- key: ESLC_LANG_it
+  titles:
+    en: Italian
+    it: Italiano
+- key: ESLF_ADMINISTRATION
+  titles:
+    en: Administration
+    it: Administration
+- key: ESLF_PASSWORD
+  titles:
+    en: Password
+    it: Password
+- key: ESLF_SIGNIN
+  titles:
+    en: Log in
+    it: Entra
+- key: ESLF_SIGNOUT
+  titles:
+    en: Logout
+    it: Esci
+- key: ESLF_USERNAME
+  titles:
+    en: Username
+    it: Username
+- key: ESLF_USER_STATUS_CREDENTIALS_INVALID
+  titles:
+    en: Invalid credentials
+    it: Invalid credentials
+- key: ESLF_USER_STATUS_EXPIRED
+  titles:
+    en: User expired
+    it: User expired
+- key: ESNB_YOU_ARE_HERE
+  titles:
+    en: You're here
+    it: Sei qui
+- key: ESSF_SEARCH
+  titles:
+    en: Search
+    it: Cerca
+- key: GENERIC_ERROR
+  titles:
+    en: Generic Error
+    it: Errore Generico
+- key: GO_SEED_BANK
+  titles:
+    en: GO TO SEED BANK
+    it: TORNA A SEED BANK
+- key: IGNORE
+  titles:
+    en: Ignore
+    it: Ignora
+- key: LIST_VIEWER_EMPTY
+  titles:
+    en: No result found. Broaden your search and try again!
+    it: Nessun risultato trovato. Imposta dei parametri meno stringenti e prova ancora!
+- key: LOGOUT
+  titles:
+    en: Logout
+    it: Logout
+- key: MY_DASHBOARD
+  titles:
+    en: My dashboard
+    it: La mia Dashboard
+- key: 'NO'
+  titles:
+    en: 'No'
+    it: 'No'
+- key: NUMBER_FROM
+  titles:
+    en: From
+    it: Da
+- key: NUMBER_TO
+  titles:
+    en: To
+    it: A
+- key: PAGE
+  titles:
+    en: page
+    it: pagina
+- key: PAGER_FIRST
+  titles:
+    en: Start
+    it: Inizio
+- key: PAGER_LAST
+  titles:
+    en: End
+    it: Fine
+- key: PAGER_NEXT
+  titles:
+    en: Next
+    it: Ancora
+- key: PAGER_PREV
+  titles:
+    en: Previous
+    it: Indietro
+- key: PAGER_STEP_BACKWARD
+  titles:
+    en: Previous
+    it: Indietro di
+- key: PAGER_STEP_FORWARD
+  titles:
+    en: Next
+    it: Avanti di
+- key: PAGE_MODEL
+  titles:
+    en: page model
+    it: modello pagina
+- key: PAGE_NOT_FOUND
+  titles:
+    en: Page not found
+    it: Pagina non trovata
+- key: PAGE_TITLE
+  titles:
+    en: page title
+    it: titolo pagina
+- key: PASSWORD
+  titles:
+    en: Password
+    it: Password
+- key: READ_MORE
+  titles:
+    en: Read More
+    it: Approfondisci
+- key: RESERVED_AREA
+  titles:
+    en: Please sign in
+    it: È necessario autenticarsi
+- key: SEARCH
+  titles:
+    en: Search
+    it: Cerca
+- key: SEARCHED_FOR
+  titles:
+    en: You searched for
+    it: Hai cercato
+- key: SEARCH_FILTERS_BUTTON
+  titles:
+    en: Narrow your search
+    it: Filtra ulteriormente
+- key: SEARCH_NOTHING_FOUND
+  titles:
+    en: No result found. Try another search term!
+    it: Nessun risultato trovato. Prova a cercare un altro termine!
+- key: SEARCH_RESULTS
+  titles:
+    en: Search Result
+    it: Risultati della Ricerca
+- key: SEARCH_RESULTS_INTRO
+  titles:
+    en: Found
+    it: Sono stati trovati
+- key: SEARCH_RESULTS_OUTRO
+  titles:
+    en: 'results. Showing:'
+    it: 'risultati. Mostrati:'
+- key: SIGNIN
+  titles:
+    en: Sign in
+    it: Entra
+- key: SIGN_UP
+  titles:
+    en: Sign Up
+    it: Registrati
+- key: TEXT
+  titles:
+    en: Text
+    it: Testo
+- key: TEXT_PLACEHOLDER
+  titles:
+    en: Title
+    it: Titolo

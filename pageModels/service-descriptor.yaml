@@ -1,0 +1,21 @@
+code: service
+description: Service Page
+configuration:
+  frames:
+    - pos: 0
+      description: Sample Frame
+      mainFrame: false
+      sketch:
+        x1: 0
+        y1: 0
+        x2: 11
+        y2: 0
+    - pos: 1
+      description: Sample Frame
+      mainFrame: false
+      sketch:
+        x1: 0
+        y1: 1
+        x2: 11
+        y2: 1
+template: "<#assign wp=JspTaglibs[\"/aps-core\"]><!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"><html><head>\t<title><@wp.currentPage param=\"title\" /></title></head><body><h1><@wp.currentPage param=\"title\" /></h1><a href=\"<@wp.url page=\"homepage\" />\" >Home</a><br><div><@wp.show frame=0 /></div><div><@wp.show frame=1 /></div>  <@wp.fragment code=\"keycloak\" escapeXml=false/></body></html>"

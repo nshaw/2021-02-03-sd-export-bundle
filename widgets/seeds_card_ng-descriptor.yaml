@@ -1,0 +1,12 @@
+code: seeds_card_ng
+titles:
+  en: Seeds Card NG
+  it: Seeds Card NG
+group: free
+customUi: '<#assign wp=JspTaglibs[ "/aps-core"]><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />my-test-bundle/widgets/seeds-card-ng/js/main-es2015.js" ></script><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />my-test-bundle/widgets/angular/list-item/js/runtime-es2015.js" ></script><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />my-test-bundle/widgets/angular/list-item/js/polyfills-es2015.js" ></script><@wp.currentWidget param="config" configParam="cardname" var="configName" /><ng-seedscard-details cardname="${configName}"/>'
+configUi:
+  customElement: seeds-card-config
+  resources:
+    - my-test-bundle/widgets/seeds-card-config/static/js/runtime.js
+    - my-test-bundle/widgets/seeds-card-config/static/js/vendor.js
+    - my-test-bundle/widgets/seeds-card-config/static/js/main.js

@@ -1,0 +1,13 @@
+code: service
+parentCode: homepage
+titles:
+  en: Service
+  it: Pagine di Servizio
+pageModel: service
+ownerGroup: free
+joinGroups: []
+displayedInMenu: false
+seo: false
+charset: utf8
+status: published
+widgets: []

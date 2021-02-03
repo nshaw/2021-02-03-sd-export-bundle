@@ -1,0 +1,46 @@
+code: dashboard
+parentCode: homepage
+titles:
+  en: My dashboard
+  it: La mia Dashboard
+pageModel: dashboard
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: Brand-Logo
+    config: null
+    pos: 0
+  - code: Login_buttons
+    config: null
+    pos: 2
+  - code: seeds_card
+    config:
+      cardname: checking
+    pos: 4
+  - code: seeds_card_ng
+    config:
+      cardname: savings
+    pos: 5
+  - code: seeds_card
+    config:
+      cardname: creditcard
+    pos: 6
+  - code: list_item
+    config:
+      count: '0'
+      icon: managealerts
+      title: Alerts
+    pos: 7
+  - code: list_item
+    config:
+      count: '0'
+      icon: viewstatements
+      title: View Statements
+    pos: 11
+  - code: seedscard-transaction-table
+    config: null
+    pos: 13
