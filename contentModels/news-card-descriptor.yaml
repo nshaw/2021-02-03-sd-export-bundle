@@ -1,5 +1,5 @@
 id: 18
-contentType: NWS
+contentType: SDN
 description: news card
 contentShape: |-
   <div class="card card-dim" >

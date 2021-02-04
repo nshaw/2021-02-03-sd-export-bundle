@@ -1,5 +1,5 @@
-code: NWS
-name: News
+code: SDN
+name: Standard Demo News
 status: '0'
 attributes:
   - code: title

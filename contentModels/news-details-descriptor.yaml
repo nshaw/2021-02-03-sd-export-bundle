@@ -1,5 +1,5 @@
 id: 15
-contentType: NWS
+contentType: SDN
 description: News Details
 contentShape: |-
   <div class="search-result">

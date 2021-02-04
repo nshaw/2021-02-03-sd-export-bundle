@@ -1,5 +1,5 @@
-code: BNR
-name: Banners
+code: SDB
+name: Standard Demo Banners
 status: '0'
 attributes:
   - code: title

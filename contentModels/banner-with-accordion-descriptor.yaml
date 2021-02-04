@@ -1,5 +1,5 @@
 id: 4
-contentType: BNR
+contentType: SDB
 description: Banner with accordion
 contentShape: |-
   <div class="main-banner-accordion">

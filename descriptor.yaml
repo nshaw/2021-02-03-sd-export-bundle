@@ -41,9 +41,9 @@ components:
   groups:
     - groups/groups-descriptor.yaml
   contentTypes:
-#TODO: remove if this works but schema isn't identical so may break anyway    - contentTypes/bnr-descriptor.yaml
+    - contentTypes/bnr-sd-descriptor.yaml
     - contentTypes/mpc-descriptor.yaml
-#TODO: ditto    - contentTypes/nws-descriptor.yaml
+    - contentTypes/nws-sd-descriptor.yaml
     - contentTypes/prd-descriptor.yaml
   contentModels:
     - contentModels/main-banner-descriptor.yaml
