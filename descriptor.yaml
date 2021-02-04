@@ -31,8 +31,7 @@ components:
     - fragments/insurance_inclusions-descriptor.yaml
     - fragments/insurance_inclusions_footer-descriptor.yaml
   pages:
-    - pages/homepage-descriptor.yaml
-    - pages/service-descriptor.yaml
+    - pages/homepagesd-descriptor.yaml
     - pages/dashboard-descriptor.yaml
     - pages/sign_up-descriptor.yaml
     - pages/credit_card-descriptor.yaml
@@ -166,8 +165,9 @@ components:
     - contents/prd670-descriptor.yaml
     - contents/prd673-descriptor.yaml
   plugins:
-    - plugins/standard-demo-banking-descriptor.yaml
-    - plugins/std-demo-customer-descriptor.yaml
+# TODO: disable plugins to speed up bundle testing
+#    - plugins/standard-demo-banking-descriptor.yaml
+#    - plugins/std-demo-customer-descriptor.yaml
   categories:
     - categories/categories-descriptor.yaml
   labels:
