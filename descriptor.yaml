@@ -42,7 +42,7 @@ components:
   groups:
     - groups/groups-descriptor.yaml
   contentTypes:
-    - contentTypes/bnr-descriptor.yaml
+#TODO: remove if this works but schema isn't identical so may break anyway    - contentTypes/bnr-descriptor.yaml
     - contentTypes/mpc-descriptor.yaml
     - contentTypes/nws-descriptor.yaml
     - contentTypes/prd-descriptor.yaml
