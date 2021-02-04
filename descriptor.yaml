@@ -41,10 +41,10 @@ components:
   groups:
     - groups/groups-descriptor.yaml
   contentTypes:
-    - contentTypes/bnr-sd-descriptor.yaml
     - contentTypes/mpc-descriptor.yaml
-    - contentTypes/nws-sd-descriptor.yaml
     - contentTypes/prd-descriptor.yaml
+    - contentTypes/sdb-descriptor.yaml
+    - contentTypes/sdn-descriptor.yaml
   contentModels:
     - contentModels/main-banner-descriptor.yaml
     - contentModels/banner-light-green-descriptor.yaml
