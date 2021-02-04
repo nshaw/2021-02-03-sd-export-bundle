@@ -44,7 +44,7 @@ components:
   contentTypes:
 #TODO: remove if this works but schema isn't identical so may break anyway    - contentTypes/bnr-descriptor.yaml
     - contentTypes/mpc-descriptor.yaml
-    - contentTypes/nws-descriptor.yaml
+#TODO: ditto    - contentTypes/nws-descriptor.yaml
     - contentTypes/prd-descriptor.yaml
   contentModels:
     - contentModels/main-banner-descriptor.yaml
