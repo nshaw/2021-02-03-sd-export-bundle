@@ -38,6 +38,7 @@ components:
     - pages/interest-descriptor.yaml
     - pages/manage_users-descriptor.yaml
     - pages/seed_insurances-descriptor.yaml
+    - pages/products-descriptor.yaml
   groups:
     - groups/groups-descriptor.yaml
   contentTypes:
