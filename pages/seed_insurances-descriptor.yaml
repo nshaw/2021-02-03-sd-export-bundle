@@ -9,7 +9,7 @@ joinGroups: []
 displayedInMenu: true
 seo: false
 charset: utf-8
-status: draft
+status: published
 widgets:
   - code: back_to_seed
     config: null
