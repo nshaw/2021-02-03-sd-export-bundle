@@ -2,7 +2,7 @@ id: SDB85
 typeCode: SDB
 description: Credit light green
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

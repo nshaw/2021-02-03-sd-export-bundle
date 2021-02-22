@@ -2,7 +2,7 @@ id: SDB34
 typeCode: SDB
 description: banner light green
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

@@ -2,7 +2,7 @@ id: SDB147
 typeCode: SDB
 description: Interest simple composite banner
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

@@ -2,7 +2,7 @@ id: SDB164
 typeCode: SDB
 description: Interest 3 card title
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

@@ -2,7 +2,7 @@ id: SDB31
 typeCode: SDB
 description: Banner with inner card
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

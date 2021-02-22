@@ -2,7 +2,7 @@ id: SDB149
 typeCode: SDB
 description: banner landscape wine yard
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

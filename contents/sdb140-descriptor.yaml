@@ -2,7 +2,7 @@ id: SDB140
 typeCode: SDB
 description: Interest banner white img first
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

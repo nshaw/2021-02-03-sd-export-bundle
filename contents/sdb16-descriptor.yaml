@@ -2,7 +2,7 @@ id: SDB16
 typeCode: SDB
 description: Banner with accordion
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null

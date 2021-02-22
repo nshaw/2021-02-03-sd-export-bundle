@@ -2,7 +2,7 @@ id: SDB80
 typeCode: SDB
 description: Credit & benefits & features
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null
