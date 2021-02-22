@@ -33,7 +33,7 @@ widgets:
     config:
       contentDescription: Banner with inner card
       modelId: '3'
-      contentId: XYZ31
+      contentId: SDB31
     pos: 6
   - code: content_viewer
     config:
