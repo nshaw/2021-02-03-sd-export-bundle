@@ -23,12 +23,12 @@ widgets:
   - code: content_viewer
     config:
       modelId: '8'
-      contentId: BNR80
+      contentid: SDB80
     pos: 5
   - code: content_viewer
     config:
       modelId: '7'
-      contentId: BNR85
+      contentid: SDB85
     pos: 6
   - code: credit_card_user_apply_form
     config: null

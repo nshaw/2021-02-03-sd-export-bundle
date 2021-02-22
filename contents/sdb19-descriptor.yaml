@@ -1,20 +1,20 @@
-id: BNR28
+id: SDB19
 typeCode: SDB
-description: Banner with dark green background
+description: Banner with white background
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null
     values:
-      en: Financial Health Dashboard
+      en: Open a Seed Checking Account Today
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: 'Take charge of your finances. Stay informed of your cash and savings, and know where your money is going so you can invest your money where you want it to go. Seed automatically organizes the data from all of your Seed accounts so you can see how much and where your money is being spent.'
+      en: Sign up for an account today in less than 5 minutes.
     elements: []
     compositeelements: []
     listelements: {}
@@ -28,14 +28,21 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '29'
-        name: dashboard.png
+        correlationCode: '20'
+        name: cta-image
     elements: []
     compositeelements: []
     listelements: {}
   - code: link
-    value: null
-    values: {}
+    value:
+      urlDest: 'http://www.google.it'
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+      symbolicDestination: '#!U;http://www.google.it!#'
+      destType: 1
+    values:
+      en: apply now
     elements: []
     compositeelements: []
     listelements: {}

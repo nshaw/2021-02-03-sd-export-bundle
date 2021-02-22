@@ -1,20 +1,20 @@
-id: BNR19
+id: SDB149
 typeCode: SDB
-description: Banner with white background
+description: banner landscape wine yard
 mainGroup: free
-status: PUBLIC
+status: DRAFT
 attributes:
   - code: title
     value: null
     values:
-      en: Open a Seed Checking Account Today
+      en: banner landscape wine yard
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: Sign up for an account today in less than 5 minutes.
+      en: banner landscape wine yard
     elements: []
     compositeelements: []
     listelements: {}
@@ -28,21 +28,14 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '20'
-        name: cta-image
+        correlationCode: '150'
+        name: Frame 1winefield.png
     elements: []
     compositeelements: []
     listelements: {}
   - code: link
-    value:
-      urlDest: 'http://www.google.it'
-      pageDest: null
-      contentDest: null
-      resourceDest: null
-      symbolicDestination: '#!U;http://www.google.it!#'
-      destType: 1
-    values:
-      en: apply now
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

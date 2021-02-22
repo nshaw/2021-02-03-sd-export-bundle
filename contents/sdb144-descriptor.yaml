@@ -1,20 +1,20 @@
-id: BNR140
+id: SDB144
 typeCode: SDB
-description: Interest banner white img first
+description: Interest Banner white
 mainGroup: free
 status: DRAFT
 attributes:
   - code: title
     value: null
     values:
-      en: Seed High Yield Savings
+      en: Seed Everyday Checking
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: 'Open a savings account today to earn an industry leading 1.90% APY on your money. With up to 6 transfers per month, this is your vehicle for savings where you can earn a higher return while keeping your money liquid so you can access it when you need it.'
+      en: 'Designed to meet your everyday banking needs, the Seed mobile app allows you to bank from the comfort of your home. With access to 55,000 All Point ATMs nationwide, and a 1.00% APY interest rate on your cash reserves, Seed makes it easy to earn money while you bank.'
     elements: []
     compositeelements: []
     listelements: {}
@@ -28,7 +28,7 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '141'
+        correlationCode: '145'
         name: Rectangle 11leftpad.png
     elements: []
     compositeelements: []

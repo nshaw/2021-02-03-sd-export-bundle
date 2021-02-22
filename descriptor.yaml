@@ -123,20 +123,6 @@ components:
     - assets/497/497-descriptor.yaml
     - assets/648/648-descriptor.yaml
   contents:
-    - contents/bnr16-descriptor.yaml
-    - contents/bnr19-descriptor.yaml
-    - contents/bnr28-descriptor.yaml
-    - contents/bnr31-descriptor.yaml
-    - contents/bnr34-descriptor.yaml
-    - contents/bnr37-descriptor.yaml
-    - contents/bnr80-descriptor.yaml
-    - contents/bnr85-descriptor.yaml
-    - contents/bnr102-descriptor.yaml
-    - contents/bnr140-descriptor.yaml
-    - contents/bnr144-descriptor.yaml
-    - contents/bnr147-descriptor.yaml
-    - contents/bnr149-descriptor.yaml
-    - contents/bnr164-descriptor.yaml
     - contents/mpc584-descriptor.yaml
     - contents/mpc587-descriptor.yaml
     - contents/mpc590-descriptor.yaml
@@ -165,6 +151,20 @@ components:
     - contents/prd666-descriptor.yaml
     - contents/prd670-descriptor.yaml
     - contents/prd673-descriptor.yaml
+    - contents/sdb16-descriptor.yaml
+    - contents/sdb19-descriptor.yaml
+    - contents/sdb28-descriptor.yaml
+    - contents/sdb31-descriptor.yaml
+    - contents/sdb34-descriptor.yaml
+    - contents/sdb37-descriptor.yaml
+    - contents/sdb80-descriptor.yaml
+    - contents/sdb85-descriptor.yaml
+    - contents/sdb102-descriptor.yaml
+    - contents/sdb140-descriptor.yaml
+    - contents/sdb144-descriptor.yaml
+    - contents/sdb147-descriptor.yaml
+    - contents/sdb149-descriptor.yaml
+    - contents/sdb164-descriptor.yaml
   plugins:
 # TODO: disable plugins to speed up bundle testing
 #    - plugins/standard-demo-banking-descriptor.yaml

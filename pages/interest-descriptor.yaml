@@ -20,27 +20,27 @@ widgets:
   - code: content_viewer
     config:
       modelId: '9'
-      contentId: BNR149
+      contentid: SDB149
     pos: 4
   - code: content_viewer
     config:
       modelId: '8'
-      contentId: BNR164
+      contentid: SDB164
     pos: 5
   - code: content_viewer
     config:
       modelId: '10'
-      contentId: BNR147
+      contentid: SDB147
     pos: 6
   - code: content_viewer
     config:
       modelId: '11'
-      contentId: BNR144
+      contentid: SDB144
     pos: 7
   - code: content_viewer
     config:
       modelId: '12'
-      contentId: BNR140
+      contentid: SDB140
     pos: 8
   - code: find-atm
     config: null
@@ -48,7 +48,7 @@ widgets:
   - code: content_viewer
     config:
       modelId: '8'
-      contentId: BNR102
+      contentid: SDB102
     pos: 10
   - code: footer
     config: null

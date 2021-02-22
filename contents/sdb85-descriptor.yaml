@@ -1,21 +1,22 @@
-id: BNR34
+id: SDB85
 typeCode: SDB
-description: banner light green
+description: Credit light green
 mainGroup: free
 status: DRAFT
 attributes:
   - code: title
     value: null
     values:
-      en: We Got Your Back
+      en: '20,000 Bonus points'
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: |
-        <p>Traditional banks earn between 20-30% of their revenue from banking fees. Seed is a modern, online bank that passes along the savings we receive from lower operating costs to our customers by eliminating fees that don&#39;t have a direct cost to us all.</p>
+      en: |-
+        When you spend $1,000 in purchases in the first 3 months.
+        Reward points can be redeemed for airfare, hotels, car rentals, cruises and gift cards to popular retailers.
     elements: []
     compositeelements: []
     listelements: {}
@@ -29,8 +30,8 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '35'
-        name: we got your back.png
+        correlationCode: '86'
+        name: Framepresent.png
     elements: []
     compositeelements: []
     listelements: {}

@@ -21,13 +21,13 @@ widgets:
     config:
       contentDescription: main-banner
       modelId: '1'
-      contentId: BNR37
+      contentid: SDB37
     pos: 4
   - code: content_viewer
     config:
       contentDescription: banner light green
       modelId: '2'
-      contentId: BNR34
+      contentid: SDB34
     pos: 5
   - code: content_viewer
     config:
@@ -39,19 +39,19 @@ widgets:
     config:
       contentDescription: Banner with accordion
       modelId: '4'
-      contentId: BNR16
+      contentid: SDB16
     pos: 7
   - code: content_viewer
     config:
       contentDescription: Banner with dark green background
       modelId: '5'
-      contentId: BNR28
+      contentid: SDB28
     pos: 8
   - code: content_viewer
     config:
       contentDescription: Banner with white background
       modelId: '6'
-      contentId: BNR19
+      contentid: SDB19
     pos: 9
   - code: footer
     config: null

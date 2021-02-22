@@ -1,21 +1,20 @@
-id: BNR16
+id: SDB102
 typeCode: SDB
-description: Banner with accordion
+description: Interest 3 card title - 2nd banner
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null
     values:
-      en: Helping You Reach Financial Freedom
+      en: Learn about checking and savings accounts
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: |
-        <p>It&#39;s easier to make money once you have money. But how do you get there? At Seed, we help you build savings, and get your money to work for you.</p>
+      en: Learn about checking and savings accounts
     elements: []
     compositeelements: []
     listelements: {}
@@ -27,10 +26,7 @@ attributes:
     listelements: {}
   - code: img
     value: null
-    values:
-      en:
-        correlationCode: '57'
-        name: flowers
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
@@ -52,15 +48,14 @@ attributes:
           - code: headtitle
             value: null
             values:
-              en: Save
+              en: 'Checkings vs Savings, Money Markets, and CDs:'
             elements: []
             compositeelements: []
             listelements: {}
           - code: asubtitle
             value: null
             values:
-              en: |
-                <p>No Hidden Fees No monthly service fees, minimum balance fees, or overdraft fees. Get peace of mind knowing that your money in the bank stays in the bank, and you&rsquo;re not getting hit by hidden charges. Get instant alerts whenever a fee is charged to your account, and know up front what fees we do charge for.</p>
+              en: 'What are they, and which is right for me?'
             elements: []
             compositeelements: []
             listelements: {}
@@ -73,19 +68,22 @@ attributes:
           - code: atitle
             value: null
             values:
-              en: No Hidden Fees
+              en: 'Checkings vs Savings, Money Markets, and CDs:'
             elements: []
             compositeelements: []
             listelements: {}
           - code: open
-            value: 'true'
+            value: ''
             values: {}
             elements: []
             compositeelements: []
             listelements: {}
           - code: aimg
             value: null
-            values: {}
+            values:
+              en:
+                correlationCode: '103'
+                name: Checking v Savings.png
             elements: []
             compositeelements: []
             listelements: {}
@@ -98,15 +96,14 @@ attributes:
           - code: headtitle
             value: null
             values:
-              en: Grow
+              en: 'High Yield Savings Accounts:'
             elements: []
             compositeelements: []
             listelements: {}
           - code: asubtitle
             value: null
             values:
-              en: |
-                <p>Put money in your pocket. Earn 1.00% APY on our basic checking account, and automatically earn more as your average monthly balance increases. Always get a return on your money with Seed checking and savings.</p>
+              en: 'How much can I earn, and what to know about taxes'
             elements: []
             compositeelements: []
             listelements: {}
@@ -119,19 +116,22 @@ attributes:
           - code: atitle
             value: null
             values:
-              en: Get Paid to Bank with Us
+              en: 'High Yield Savings Accounts:'
             elements: []
             compositeelements: []
             listelements: {}
           - code: open
-            value: 'false'
+            value: ''
             values: {}
             elements: []
             compositeelements: []
             listelements: {}
           - code: aimg
             value: null
-            values: {}
+            values:
+              en:
+                correlationCode: '104'
+                name: High Yield Accounts.png
             elements: []
             compositeelements: []
             listelements: {}
@@ -144,15 +144,14 @@ attributes:
           - code: headtitle
             value: null
             values:
-              en: Earn
+              en: 'Ways to Invest:'
             elements: []
             compositeelements: []
             listelements: {}
           - code: asubtitle
             value: null
             values:
-              en: |
-                <p>Whether you?re saving for your wedding, investing in a new business, or preparing for retirement, having a clear goal will help you take concrete steps to achieve it.</p>
+              en: 'Ways to Invest: What are the ways people invest their money, and reasons to keep your money liquid.'
             elements: []
             compositeelements: []
             listelements: {}
@@ -165,19 +164,22 @@ attributes:
           - code: atitle
             value: null
             values:
-              en: Save for What Matters
+              en: 'Ways to Invest:'
             elements: []
             compositeelements: []
             listelements: {}
           - code: open
-            value: 'false'
+            value: ''
             values: {}
             elements: []
             compositeelements: []
             listelements: {}
           - code: aimg
             value: null
-            values: {}
+            values:
+              en:
+                correlationCode: '105'
+                name: Ways to Invest.png
             elements: []
             compositeelements: []
             listelements: {}

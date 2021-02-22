@@ -1,20 +1,20 @@
-id: BNR149
+id: SDB140
 typeCode: SDB
-description: banner landscape wine yard
+description: Interest banner white img first
 mainGroup: free
 status: DRAFT
 attributes:
   - code: title
     value: null
     values:
-      en: banner landscape wine yard
+      en: Seed High Yield Savings
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: banner landscape wine yard
+      en: 'Open a savings account today to earn an industry leading 1.90% APY on your money. With up to 6 transfers per month, this is your vehicle for savings where you can earn a higher return while keeping your money liquid so you can access it when you need it.'
     elements: []
     compositeelements: []
     listelements: {}
@@ -28,8 +28,8 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '150'
-        name: Frame 1winefield.png
+        correlationCode: '141'
+        name: Rectangle 11leftpad.png
     elements: []
     compositeelements: []
     listelements: {}

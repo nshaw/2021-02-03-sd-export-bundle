@@ -1,20 +1,20 @@
-id: BNR144
+id: SDB28
 typeCode: SDB
-description: Interest Banner white
+description: Banner with dark green background
 mainGroup: free
 status: DRAFT
 attributes:
   - code: title
     value: null
     values:
-      en: Seed Everyday Checking
+      en: Financial Health Dashboard
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: 'Designed to meet your everyday banking needs, the Seed mobile app allows you to bank from the comfort of your home. With access to 55,000 All Point ATMs nationwide, and a 1.00% APY interest rate on your cash reserves, Seed makes it easy to earn money while you bank.'
+      en: 'Take charge of your finances. Stay informed of your cash and savings, and know where your money is going so you can invest your money where you want it to go. Seed automatically organizes the data from all of your Seed accounts so you can see how much and where your money is being spent.'
     elements: []
     compositeelements: []
     listelements: {}
@@ -28,8 +28,8 @@ attributes:
     value: null
     values:
       en:
-        correlationCode: '145'
-        name: Rectangle 11leftpad.png
+        correlationCode: '29'
+        name: dashboard.png
     elements: []
     compositeelements: []
     listelements: {}
