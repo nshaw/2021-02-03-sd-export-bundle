@@ -3,4 +3,4 @@ titles:
   en: Brand Logo
   it: Brand Logo
 group: free
-customUi: '<#assign wp=JspTaglibs["/aps-core"]><a class="logo" href="<@wp.url page="homepage" />" >        <img src="<@wp.resourceURL />my-test-bundle/static/img/seed-logo.svg" />  </a>'
+customUi: '<#assign wp=JspTaglibs["/aps-core"]><a class="logo" href="<@wp.url page="homepage" />" >        <img src="<@wp.resourceURL />standard-demo/static/img/seed-logo.svg" />  </a>'

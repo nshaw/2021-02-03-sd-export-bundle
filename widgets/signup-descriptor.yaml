@@ -3,4 +3,4 @@ titles:
   en: Signup
   it: Registrazione
 group: free
-customUi: '<#assign wp=JspTaglibs[ "/aps-core"]><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />my-test-bundle/widgets/signup/form/js/runtime.js" ></script><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />my-test-bundle/widgets/signup/form/js/vendor.js" ></script><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />my-test-bundle/widgets/signup/form/js/main.js" ></script><user-form/>'
+customUi: '<#assign wp=JspTaglibs[ "/aps-core"]><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />standard-demo/widgets/signup/form/js/runtime.js" ></script><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />standard-demo/widgets/signup/form/js/vendor.js" ></script><script nonce="<@wp.cspNonce />" async src="<@wp.resourceURL />standard-demo/widgets/signup/form/js/main.js" ></script><user-form/>'

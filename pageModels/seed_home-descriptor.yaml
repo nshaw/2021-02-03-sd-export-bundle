@@ -205,6 +205,6 @@ template: |-
            </nav>
            <@wp.show frame=4 />        <@wp.show frame=5 />        <@wp.show frame=6 />        <@wp.show frame=7 />        <@wp.show frame=8 />        <@wp.show frame=9 />        <@wp.show frame=10 />        <@wp.show frame=11 />        <@wp.show frame=12 />        <@wp.show frame=13 />    
         </div>
-        <!-- Bootstrap core js -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />my-test-bundle/static/js/bootstrap.min.js"></script>        <!-- MDB core js -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />my-test-bundle/static/js/mdb.min.js"></script>    
+        <!-- Bootstrap core js -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />standard-demo/static/js/bootstrap.min.js"></script>        <!-- MDB core js -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />standard-demo/static/js/mdb.min.js"></script>
      </body>
   </html>
