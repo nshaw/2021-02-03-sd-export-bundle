@@ -1,5 +1,5 @@
-code: 2021-02-03-sd-export
-description: Complete Standard Demo export
+code: standard-demo
+description: Standard Demo bundle, exported February 2021 and then modified to work with 6.3
 components:
   widgets:
     - widgets/brand-logo-descriptor.yaml
@@ -23,7 +23,6 @@ components:
   pageModels:
     - pageModels/dashboard-descriptor.yaml
     - pageModels/insurance_home-descriptor.yaml
-    - pageModels/loginpagemodel-descriptor.yaml
     - pageModels/seed_home-descriptor.yaml
     - pageModels/service-descriptor.yaml
   fragments:

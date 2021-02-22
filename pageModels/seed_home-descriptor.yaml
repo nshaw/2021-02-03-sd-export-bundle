@@ -124,16 +124,16 @@ template: |-
         <meta name="description" content="" />
         <meta name="author" content="" />
         <link rel="icon" href="<@wp.info key="systemParam" paramName="applicationBaseURL" />
-        favicon.png" type="image/png" />        <@wp.fragment code="keycloak" escapeXml=false/>              <!-- FA -->              
-        <link rel="stylesheet" href="<@wp.resourceURL />my-test-bundle/static/css/all.css">
+        favicon.png" type="image/png" />        <@wp.fragment code="keycloak_auth" escapeXml=false/>              <!-- FA -->
+        <link rel="stylesheet" href="<@wp.resourceURL />static/css/all.css">
         <!-- Bootstrap core -->        
-        <link href="<@wp.resourceURL />my-test-bundle/static/css/bootstrap.min.css" rel="stylesheet">
+        <link href="<@wp.resourceURL />static/css/bootstrap.min.css" rel="stylesheet">
         <!-- Material Design Bootstrap -->        
-        <link href="<@wp.resourceURL />my-test-bundle/static/css/mdb.min.css" rel="stylesheet">
+        <link href="<@wp.resourceURL />static/css/mdb.min.css" rel="stylesheet">
         <!-- custom styles -->        
-        <link rel="stylesheet" href="<@wp.resourceURL />my-test-bundle/static/css/seed.css" rel="stylesheet">
-        <link rel="stylesheet" href="<@wp.resourceURL />my-test-bundle/static/css/media-queries.css" rel="stylesheet">
-        <!-- JQuery -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />my-test-bundle/static/js/jquery.min.js"></script>    
+        <link rel="stylesheet" href="<@wp.resourceURL />standard-demo/static/css/seed.css" rel="stylesheet">
+        <link rel="stylesheet" href="<@wp.resourceURL />standard-demo/css/media-queries.css" rel="stylesheet">
+        <!-- JQuery -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />static/js/jquery.min.js"></script>
      </head>
      <body>
         <div class="custom-navbar ">
