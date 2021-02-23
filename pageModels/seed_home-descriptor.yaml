@@ -123,17 +123,9 @@ template: |-
         <meta name="viewport" content="width=device-width,  user-scalable=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <link rel="icon" href="<@wp.info key="systemParam" paramName="applicationBaseURL" />
-        favicon.png" type="image/png" />        <@wp.fragment code="keycloak_auth" escapeXml=false/>              <!-- FA -->
-        <link rel="stylesheet" href="<@wp.resourceURL />static/css/all.css">
-        <!-- Bootstrap core -->        
-        <link href="<@wp.resourceURL />static/css/bootstrap.min.css" rel="stylesheet">
-        <!-- Material Design Bootstrap -->        
-        <link href="<@wp.resourceURL />static/css/mdb.min.css" rel="stylesheet">
-        <!-- custom styles -->        
-        <link rel="stylesheet" href="<@wp.resourceURL />standard-demo/static/css/seed.css" rel="stylesheet">
-        <link rel="stylesheet" href="<@wp.resourceURL />standard-demo/css/media-queries.css" rel="stylesheet">
-        <!-- JQuery -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />static/js/jquery.min.js"></script>
+        <link rel="icon" href="<@wp.info key="systemParam" paramName="applicationBaseURL" />favicon.png" type="image/png" />
+        <@wp.fragment code="keycloak_auth" escapeXml=false/>
+        <@wp.fragment code="insurance_inclusions" escapeXml=false />
      </head>
      <body>
         <div class="custom-navbar ">
@@ -205,6 +197,9 @@ template: |-
            </nav>
            <@wp.show frame=4 />        <@wp.show frame=5 />        <@wp.show frame=6 />        <@wp.show frame=7 />        <@wp.show frame=8 />        <@wp.show frame=9 />        <@wp.show frame=10 />        <@wp.show frame=11 />        <@wp.show frame=12 />        <@wp.show frame=13 />    
         </div>
-        <!-- Bootstrap core js -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />standard-demo/static/js/bootstrap.min.js"></script>        <!-- MDB core js -->        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />standard-demo/static/js/mdb.min.js"></script>
+        <!-- Bootstrap core js -->
+        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />static/js/bootstrap.min.js"></script>
+        <!-- MDB core js -->
+        <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />static/js/mdb.min.js"></script>
      </body>
   </html>

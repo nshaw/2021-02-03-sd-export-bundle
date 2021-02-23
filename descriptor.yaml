@@ -24,7 +24,6 @@ components:
     - pageModels/dashboard-descriptor.yaml
     - pageModels/insurance_home-descriptor.yaml
     - pageModels/seed_home-descriptor.yaml
-    - pageModels/service-descriptor.yaml
   fragments:
     - fragments/angular-descriptor.yaml
     - fragments/insurance_inclusions-descriptor.yaml
