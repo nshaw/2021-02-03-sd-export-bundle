@@ -21,7 +21,9 @@ widgets:
     config:
       contentDescription: main-banner
       modelId: '1'
+      ownerGroup: free
       contentid: SDB37
+      joinGroups: '[]'
     pos: 4
   - code: content_viewer
     config:
