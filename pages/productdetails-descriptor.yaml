@@ -1,8 +1,8 @@
 #TODO: Extract a real copy of this page
 code: products
-parentCode: seed_insurances
+parentCode: products
 titles:
-  en: Products PLACEHOLDER
+  en: Product Details
   it: Prodotti
 pageModel: insurance_home
 ownerGroup: free

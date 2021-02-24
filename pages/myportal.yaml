@@ -1,9 +1,9 @@
 #TODO: Extract a real copy of this page
-code: products
+code: my_portal
 parentCode: seed_insurances
 titles:
-  en: Products PLACEHOLDER
-  it: Prodotti
+  en: My Portal
+  it: My Portal
 pageModel: insurance_home
 ownerGroup: free
 joinGroups: []
