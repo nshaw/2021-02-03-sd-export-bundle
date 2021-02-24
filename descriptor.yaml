@@ -35,9 +35,8 @@ components:
     - pages/credit_card-descriptor.yaml
     - pages/interest-descriptor.yaml
     - pages/manage_users-descriptor.yaml
-#TODO: re-enable for clean deploy
-#    - pages/seed_insurances-descriptor.yaml
-#    - pages/products-descriptor.yaml
+    - pages/seed_insurances-descriptor.yaml
+    - pages/products-descriptor.yaml
   groups:
     - groups/groups-descriptor.yaml
   contentTypes:
