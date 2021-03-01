@@ -22,14 +22,14 @@ widgets:
       contentDescription: main-banner
       modelId: '1'
       ownerGroup: free
-      contentid: SDB37
+      contentId: SDB37
       joinGroups: '[]'
     pos: 4
   - code: content_viewer
     config:
       contentDescription: banner light green
       modelId: '2'
-      contentid: SDB34
+      contentId: SDB34
     pos: 5
   - code: content_viewer
     config:
@@ -41,19 +41,19 @@ widgets:
     config:
       contentDescription: Banner with accordion
       modelId: '4'
-      contentid: SDB16
+      contentId: SDB16
     pos: 7
   - code: content_viewer
     config:
       contentDescription: Banner with dark green background
       modelId: '5'
-      contentid: SDB28
+      contentId: SDB28
     pos: 8
   - code: content_viewer
     config:
       contentDescription: Banner with white background
       modelId: '6'
-      contentid: SDB19
+      contentId: SDB19
     pos: 9
   - code: footer
     config: null
