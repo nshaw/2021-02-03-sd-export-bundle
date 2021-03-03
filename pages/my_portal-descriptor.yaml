@@ -1,10 +1,10 @@
-code: products
+code: my_portal
 parentCode: seed_insurances
 titles:
-  en: Products
-  it: Prodotti
+  en: My Portal
+  it: My Portal
 pageModel: insurance_home
-ownerGroup: free
+ownerGroup: administrators
 joinGroups: []
 displayedInMenu: true
 seo: false
@@ -35,8 +35,8 @@ widgets:
     pos: 6
   - code: content_viewer
     config:
-      modelId: '109'
-      contentId: PRD662
+      modelId: '101'
+      contentId: MPC614
     pos: 7
   - code: content_viewer_list
     config:
@@ -44,23 +44,37 @@ widgets:
         - categoryCode: products
           attributeFilter: false
           key: category
-        - attributeFilter: true
-          key: title
       modelId: '107'
       maxElemForItem: '3'
       filters:
         - attributeFilter: false
           key: modified
           order: DESC
-      title_it: Prodotti Seed Insurance
-      title_en: Seed Insurance Product
+      title_it: I miei prodotti
+      title_en: My Products
+      categories:
+        - my_product
       contentType: PRD
     pos: 9
   - code: content_viewer
     config:
       modelId: '104'
-      contentId: MPC616
+      contentId: MPC611
     pos: 10
+  - code: content_viewer_list
+    config:
+      modelId: '103'
+      maxElemForItem: '3'
+      filters:
+        - attributeFilter: false
+          key: modified
+          order: DESC
+      title_it: Servizio Clienti
+      title_en: Customer Service
+      categories:
+        - customer_service
+      contentType: MPC
+    pos: 11
   - code: footer-insurance
     config: null
     pos: 14
