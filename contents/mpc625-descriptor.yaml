@@ -3,7 +3,8 @@ typeCode: MPC
 description: Claims
 mainGroup: free
 status: PUBLIC
-categories: ["benefits"]
+#TODO: Disable until categories are available in export/import
+#categories: ["benefits"]
 attributes:
   - code: title
     value: null
