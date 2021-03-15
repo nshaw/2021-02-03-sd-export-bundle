@@ -26,8 +26,6 @@ components:
     - pageModels/seed_home-descriptor.yaml
   fragments:
     - fragments/angular-descriptor.yaml
-    - fragments/entando_widget_navigation_bar-descriptor.yaml
-    - fragments/entando_widget_navigation_bar_include-descriptor.yaml
     - fragments/insurance_inclusions-descriptor.yaml
     - fragments/insurance_inclusions_footer-descriptor.yaml
   pages:
