@@ -23,7 +23,7 @@ widgets:
   - code: brand_insurance
     config: null
     pos: 3
-  - code: entando-widget-navigation_bar
+  - code: navigation-menu
     config:
       navSpec: code(seed_insurances) + code(products) + code(my_portal)
     pos: 4
