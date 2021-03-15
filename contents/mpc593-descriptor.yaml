@@ -3,6 +3,7 @@ typeCode: MPC
 description: Flexible cover
 mainGroup: free
 status: PUBLIC
+categories: ["benefits"]
 attributes:
   - code: title
     value: null

@@ -3,6 +3,7 @@ typeCode: MPC
 description: Claims
 mainGroup: free
 status: PUBLIC
+categories: ["benefits"]
 attributes:
   - code: title
     value: null

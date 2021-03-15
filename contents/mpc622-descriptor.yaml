@@ -3,6 +3,7 @@ typeCode: MPC
 description: Save up to 30%
 mainGroup: free
 status: PUBLIC
+categories: ["benefits"]
 attributes:
   - code: title
     value: null
