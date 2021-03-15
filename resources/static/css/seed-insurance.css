@@ -150,14 +150,14 @@ h2 {
     margin-top: -5px;
 }
 
-.insurance .navigationMenu .bx--header__menu-item{
+.insurance .navigationMenu a.bx--header__menu-item{
     color: rgba(0,0,0, 0.9);
     text-decoration: none;
     text-transform: capitalize;
     font-size: 18px;
 }
 
-.insurance .navigationMenu .bx--header__menu-item--current {
+.insurance .navigationMenu a.bx--header__menu-item--current {
     color: #8CC63F;
 }
 

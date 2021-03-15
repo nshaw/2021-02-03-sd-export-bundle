@@ -1,8 +1,8 @@
 code: homepagesd
 parentCode: homepage
 titles:
-  en: Home
-  it: Home
+  en: Home SD
+  it: Home SD
 pageModel: seed_home
 ownerGroup: free
 joinGroups: []
