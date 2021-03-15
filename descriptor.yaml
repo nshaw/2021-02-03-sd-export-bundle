@@ -166,9 +166,8 @@ components:
     - contents/sdb149-descriptor.yaml
     - contents/sdb164-descriptor.yaml
   plugins:
-# TODO: disable plugins to speed up bundle testing
-#    - plugins/standard-demo-banking-descriptor.yaml
-#    - plugins/std-demo-customer-descriptor.yaml
+    - plugins/standard-demo-banking-descriptor.yaml
+    - plugins/std-demo-customer-descriptor.yaml
   categories:
     - categories/categories-descriptor.yaml
   labels:
