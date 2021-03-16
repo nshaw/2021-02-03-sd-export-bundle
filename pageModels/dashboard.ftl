@@ -145,7 +145,7 @@
         <@wp.show frame=17 />
     </div>
     <@wp.fragment code="insurance_inclusions_footer" escapeXml=false />
-    <script nonce="<@wp.cspNonce/>" type="text/javascript" src="<@wp.resourceURL />standard-demo/static/js/datatables.min.js"></script>
+    <script nonce="<@wp.cspNonce/>" type="text/javascript" src="<@wp.resourceURL />static/js/datatables.min.js"></script>
 </body>
 
 </html>
