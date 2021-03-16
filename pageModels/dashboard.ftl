@@ -11,25 +11,11 @@
     <meta name="author" content=""/>
     
     <link rel="icon" href="<@wp.info key="systemParam" paramName="applicationBaseURL" /> favicon.png" type="image/png" />
-    <@wp.fragment code="keycloak_auth" escapeXml=false/>
     <@wp.fragment code="angular" escapeXml=false />
-    <!-- FA -->
-    <link rel="stylesheet" href="<@wp.resourceURL />standard-demo/static/css/all.css">
-
-    <!-- Bootstrap core -->
-    <link href="<@wp.resourceURL />standard-demo/static/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Material Design Bootstrap -->
-    <link href="<@wp.resourceURL />standard-demo/static/css/mdb.min.css" rel="stylesheet">
-    <!-- custom styles -->
-    <link rel="stylesheet" href="<@wp.resourceURL />standard-demo/static/css/seed.css" rel="stylesheet">
-    <link rel="stylesheet" href="<@wp.resourceURL />standard-demo/static/css/media-queries.css" rel="stylesheet">
-
-    <!-- JQuery -->
-    <script nonce="<@wp.cspNonce />" type="text/javascript" src="<@wp.resourceURL />standard-demo/static/js/jquery.min.js"></script>
-    
+    <@wp.fragment code="insurance_inclusions" escapeXml=false />
 </head>
 <body>
+    <@wp.fragment code="keycloak_auth" escapeXml=false/>
     <div class="custom-navbar">
         <!--Navbar-->
         <nav class="navbar fixed-top navbar-expand-lg navbar-light">

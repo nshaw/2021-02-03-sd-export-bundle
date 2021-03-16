@@ -42,10 +42,6 @@
   titles:
     en: Manage Users
     it: Gestione Utenti
-- key: ELSF_SUBSITE
-  titles:
-    en: Subsite
-    it: Subsite
 - key: ENTANDO_API_DESCRIPTION
   titles:
     en: Description
